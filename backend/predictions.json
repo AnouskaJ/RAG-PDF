@@ -1,0 +1,127 @@
+[
+    {
+        "query": "What is the procedure for making a claim?",
+        "response": "Call 0345 878 6261 with your personal details, policy number, car registration number, and description of the loss or damage. For windscreen claims, call 0800 328 9150. For Motor Legal Cover claims, call 0345 246 2408.",
+        "prediction": "To make a claim, contact the relevant number provided for your specific cover type, and follow the steps outlined to enable quick processing of your claim."
+    },
+    {
+        "query": "What does the policy cover for fire and theft?",
+        "response": "Section 2 covers loss or damage caused by fire, lightning, explosion, theft, or attempted theft. Accessories and spare parts are also covered if on your car, in it, or in your locked private garage.",
+        "prediction": "The policy covers repair or replacement of the car if it is stolen, damaged by an attempted theft, or damaged by fire, including any permanently fitted in-car entertainment equipment."
+    },
+    {
+        "query": "How do I know if I am covered to drive other cars?",
+        "response": "Check your certificate of motor insurance to see who is covered to drive other cars. The cover only includes injury to third parties or damage to their property.",
+        "prediction": "Check your certificate of motor insurance to see if you are covered to drive other cars."
+    },
+    {
+        "query": "What should I do if I have an accident?",
+        "response": "Report the accident as soon as possible with your personal details, policy number, car registration number, and a description of the incident. Include the other driver's details if applicable.",
+        "prediction": "If you have an accident, you should inform your insurance company as quickly as possible, providing your personal details, policy number, car registration number, a description of the loss or damage, and the other driver\u2019s details if applicable."
+    },
+    {
+        "query": "Are my electric car\u2019s charging cables covered?",
+        "response": "Yes, home chargers and charging cables are considered accessories and are covered under Section 2: Fire and Theft or Section 4: Accidental Damage.",
+        "prediction": "Yes, your electric car\u2019s charging cables are covered under \u2018Section 2: Fire and theft\u2019 or \u2018Section 4: Accidental damage\u2019 of your policy."
+    },
+    {
+        "query": "What is DriveSure?",
+        "response": "DriveSure is a telematics insurance product that uses driver-monitoring technology to capture how, when, and where your car is driven, influencing your premium based on your driving record.",
+        "prediction": "DriveSure is a telematics insurance product designed to capture how, when, and where your car is driven, using driver-monitoring technology to understand your driving style and base your premium on your driving record."
+    },
+    {
+        "query": "What is covered under Motor Legal Cover?",
+        "response": "Section 7 provides legal protection and advice for recovering uninsured losses, personal injury claims, and defending motoring prosecutions. It also includes access to a legal advice helpline.",
+        "prediction": "Motor Legal Cover provides costs for defending motoring offences in court, legal costs for motor contract disputes related to buying or selling your car or hiring goods or services for your car, and access to a 24-hour legal helpline for private motoring legal problems within the UK."
+    },
+    {
+        "query": "Can I use my car abroad?",
+        "response": "Your cover abroad depends on your policy type and destination. Refer to 'Where you can drive' on page 31. You may need a Green Card for certain countries. Contact Churchill before traveling.",
+        "prediction": "Yes, you can use your car abroad, but the coverage depends on your policy type and the destination; details are on page 31, and you may need a Green Card."
+    },
+    {
+        "query": "What does Section 4 cover?",
+        "response": "Section 4 covers accidental damage to your car, including accessories and spare parts if they are on your car, in it, or in your locked private garage.",
+        "prediction": "Section 4: Accidental Damage covers lost or damaged car keys."
+    },
+    {
+        "query": "What does the policy exclude?",
+        "response": "The policy excludes mechanical or electrical failure, wear and tear, tyre damage from braking, punctures, cuts, or bursts, and breakdowns unless covered by Green Flag. It also excludes use by an uninsured driver or for purposes not listed on your certificate.",
+        "prediction": "The policy excludes coverage for damage caused by insured drivers to property they own or are responsible for, liability for loss or damage to any car being driven or towed, death or injury to anyone working with or for the driver (except as required by law), goods carried for hire or reward, legal costs or expenses, use by uninsured or disqualified drivers, use for disallowed purposes, and psychological injuries or mental illness unless accompanied by physical injury."
+    },
+    {
+        "query": "What is a courtesy car?",
+        "response": "A courtesy car is a small hatchback or similar provided temporarily by an approved repairer while your car is being repaired under the policy. Refer to Section 3 for details.",
+        "prediction": "A courtesy car is a small hatchback car, or similar car, that an approved repairer supplies to you temporarily on behalf of the insurance company."
+    },
+    {
+        "query": "What should I do if my car is written off?",
+        "response": "If your car is written off, Churchill will settle based on the car's market value. The legal owner will be paid if you are leasing or buying on hire purchase. No premium refund is provided if you pay annually.",
+        "prediction": "If your car is written off and we agree to settle your claim on that basis, we will have met our responsibilities to you under the policy, and we will not refund any of your premium if you pay annually."
+    },
+    {
+        "query": "How does Churchill handle windscreen repairs?",
+        "response": "Churchill may replace your car\u2019s glass with similar standard glass not made by the manufacturer. Full coverage applies if you use an approved supplier; otherwise, coverage is limited.",
+        "prediction": "Churchill may replace your car's glass with non-manufacturer glass of similar standard, uses approved suppliers for repairs or replacements, and covers certain costs as specified in the policy, with an excess amount payable by the policyholder."
+    },
+    {
+        "query": "What does the term 'excess' mean?",
+        "response": "Excess is the amount you may have to pay towards a claim. Details of excesses are in your car insurance documents. Different drivers may have different excess amounts.",
+        "prediction": "Excess is the amount that you may have to pay towards a claim."
+    },
+    {
+        "query": "What are Churchill\u2019s territorial limits?",
+        "response": "The territorial limits include Great Britain, Northern Ireland, the Channel Islands, and the Isle of Man.",
+        "prediction": "Churchill\u2019s territorial limits include Great Britain, Northern Ireland, the Channel Islands, and the Isle of Man."
+    },
+    {
+        "query": "What is covered under Section 5?",
+        "response": "Section 5 covers windscreen damage, including repairs or replacement of your car\u2019s windscreen and other glass windows.",
+        "prediction": "The context provided does not include specific details about what is covered under Section 5."
+    },
+    {
+        "query": "What happens if my car is stolen?",
+        "response": "If your car is stolen and not recovered, Churchill will pay based on the car's market value. The legal owner will be covered if the car is leased or on hire purchase.",
+        "prediction": "If your car is stolen and not recovered, and you have Comprehensive Plus cover, your car will be replaced with one of the same make and model, provided you are the first and only registered keeper and the car is less than 2 years old."
+    },
+    {
+        "query": "What are the requirements for a claim if my car is vandalized?",
+        "response": "Report vandalism immediately with personal details, policy number, car registration number, and a description of the damage.",
+        "prediction": "To claim for vandalism damage, you must pay the excess for accidental damage when the car is unattended, report the vandalism to the police, call 101 for non-emergencies, and provide a crime reference number."
+    },
+    {
+        "query": "How are repairs handled if I choose my own repairer?",
+        "response": "Provide full incident details and get Churchill's approval for the repairer's assessment before work begins. These repairs will not be guaranteed by Churchill.",
+        "prediction": "If you choose your own repairer, the repairs will not be guaranteed by the insurance company even though they may pay for them directly."
+    },
+    {
+        "query": "What is not covered under accidental damage?",
+        "response": "Accidental damage does not include mechanical or electrical failure, wear and tear, tyre damage from braking, punctures, cuts, or bursts.",
+        "prediction": "Damage caused by vandalism may be covered under Section 4: Accidental Damage."
+    },
+    {
+        "query": "Are personal belongings in the car covered?",
+        "response": "Section 6: Personal Benefits covers personal belongings like clothing and personal effects up to a certain limit if lost or damaged due to an insured incident.",
+        "prediction": "Personal belongings are covered if they're lost or damaged by fire, theft, attempted theft, or accident while they're in or on your car."
+    },
+    {
+        "query": "What does 'market value' mean?",
+        "response": "Market value is the cost of replacing your car with another of the same make, model, age, mileage, and condition at the time of the accident or loss.",
+        "prediction": "Market value is the cost of replacing your car with another of the same make and model, and of a similar age, mileage, and condition at the time of the accident or loss."
+    },
+    {
+        "query": "What are the conditions for using a courtesy car?",
+        "response": "A courtesy car is provided by an approved repairer while your car is being repaired under the policy. It is typically a small hatchback or similar model.",
+        "prediction": "The conditions for using a courtesy car include: it must be driven within territorial limits, cannot be used in the Republic of Ireland, is subject to availability, and its use must comply with the restrictions and exclusions specified in the certificate of motor insurance and policy terms."
+    },
+    {
+        "query": "What is covered under the 'Liability for automated cars in Great Britain'?",
+        "response": "Section 1 covers incidents involving your car when it is lawfully driving itself, provided it is on the Secretary of State\u2019s list of motor vehicles that may safely drive themselves.",
+        "prediction": "The 'Liability for automated cars in Great Britain' covers accidents caused by your automated car when it is lawfully driving itself on a road or other public place in Great Britain, including injuries or deaths to any person and damage to property, provided the car's software is kept up to date and unmodified except as per manufacturer's instructions."
+    },
+    {
+        "query": "What steps should I take if I receive a legal notice after an accident?",
+        "response": "Contact Churchill immediately if you receive a court notice or threat of legal action. Provide all relevant documents and information needed to process the claim.",
+        "prediction": "Contact your insurance provider immediately and provide them with any relevant information, documents, or assistance they might need to process your claim."
+    }
+]
