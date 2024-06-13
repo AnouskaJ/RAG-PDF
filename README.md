@@ -1,6 +1,6 @@
 # RAG-PDF
 
-This repository contains the code for a project that implements a RAG-based chatbot for answering queries based on a PDF document. The chatbot is designed to provide accurate responses to user queries related to the content of the PDF document.
+This project implements a RAG-based chatbot for answering queries based on a PDF document. The chatbot is designed to provide accurate responses to user queries related to the content of the PDF document.
 
 ## Backend
 
